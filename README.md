@@ -1,1 +1,1 @@
-# [Medijska predilnica](feri-cat-news.netlify.app)
+# [Medijska predilnica](https://feri-cat-news.netlify.app/)
