@@ -1,3 +1,2 @@
 [build]
 command = "git submodule update --init --recursive && zola build"
-publish = "public"
