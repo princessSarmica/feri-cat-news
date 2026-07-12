@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://princesssarmica.github.io/"
+base_url = "feri-cat-news.netlify.app"
 
 # Website Title
 title = "Medijska predilnica"
